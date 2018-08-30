@@ -13,6 +13,7 @@
         <p>ssh添加测试</p>
         <p>把仓库url换成ssh</p>
         <p>在分支添加了一行代码</p>
+        <span>贮藏测试</span>
     </div>
 </template>
 <script>
