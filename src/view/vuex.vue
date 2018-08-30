@@ -9,6 +9,7 @@
           <p v-if='show'>transition test</p>
         </transition>
         <p>主分支添加了一行代码</p>
+        <p>主分支又添加了一行代码</p>
     </div>
 </template>
 <script>
